@@ -101,3 +101,4 @@ git commit -m "Add stylesheet and styles"
 Now if we checkout our master branch, we will see it is different from our add-styles branch. We can merge in the changes, but for now, let's just checkout a new branch called add-scripts
 
 git checkout -b add-scripts
+# CodeCore-Bootcamp-May-2015
