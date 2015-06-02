@@ -1,4 +1,4 @@
-# Cohort 8: 'nix CLI and git
+# Cohort 8: 'nix CLI + git
 ##Getting stared with Git
 _note_: To view a markdown preview in atom, use `ctrl-shift-m`
 
